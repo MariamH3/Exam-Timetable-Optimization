@@ -1,0 +1,26 @@
+id,name,hours,students
+1,Database,2,30
+2,Software Eng.,3,25
+3,Data Structure,2,20
+4,English,2,50
+5,Programming,3,30
+6,Networks,3,20
+7,Algorithms,3,20
+8,Artificial Intelligence,3,35
+9,Mathematics,2,40
+10,Statistics,3,30
+11,Cybersecurity,3,25
+12,Physics,2,45
+13,Digital Marketing,2,50
+14,Game Development,4,20
+15,Cloud Computing,3,30
+16,Machine Learning,4,25
+17,Operating Systems,3,40
+18,Mobile Development,3,35
+19,Robotics,3,20
+20,Human-Computer Interaction,2,30
+21,Embedded Systems,3,25
+22,Parallel Computing,3,20
+23,Quantum Computing,2,15
+24,Natural Language Processing,3,25
+25,Bioinformatics,3,20
